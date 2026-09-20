@@ -1,0 +1,7 @@
+Place your CNC project archive here.
+
+Accepted archive formats: .rar, .zip, .7z
+
+After uploading the archive, tell ChatGPT and I will inspect it and organize the useful project files into the repository.
+
+IMPORTANT: GitHub's web interface may not accept large archives. If the archive is too large, upload it here in ChatGPT instead, and I can work from the uploaded file.
